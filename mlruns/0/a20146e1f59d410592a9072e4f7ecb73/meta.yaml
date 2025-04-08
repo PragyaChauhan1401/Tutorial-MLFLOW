@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a20146e1f59d410592a9072e4f7ecb73/artifacts
+deleted_time: 1744124659638
+end_time: 1744123637202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a20146e1f59d410592a9072e4f7ecb73
+run_name: wise-sponge-519
+run_uuid: a20146e1f59d410592a9072e4f7ecb73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744123636401
+status: 4
+tags: []
+user_id: pragy

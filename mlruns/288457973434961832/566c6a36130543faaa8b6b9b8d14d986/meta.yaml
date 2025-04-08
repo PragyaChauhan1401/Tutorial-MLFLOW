@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOPS/Tutorial-MLFLOW/mlruns/288457973434961832/566c6a36130543faaa8b6b9b8d14d986/artifacts
+end_time: 1744129409380
+entry_point_name: ''
+experiment_id: '288457973434961832'
+lifecycle_stage: active
+run_id: 566c6a36130543faaa8b6b9b8d14d986
+run_name: whimsical-cod-978
+run_uuid: 566c6a36130543faaa8b6b9b8d14d986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744129409310
+status: 3
+tags: []
+user_id: pragy

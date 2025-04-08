@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/49ad1feec37a4ffeabda8cbd0b221323/artifacts
+end_time: 1744125744523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49ad1feec37a4ffeabda8cbd0b221323
+run_name: rebellious-skink-279
+run_uuid: 49ad1feec37a4ffeabda8cbd0b221323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744125743560
+status: 4
+tags: []
+user_id: pragy

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOPS/Tutorial-MLFLOW/mlruns/288457973434961832/33f38eac417d40fdbf46fcd1558a70bf/artifacts
+end_time: 1744129408897
+entry_point_name: ''
+experiment_id: '288457973434961832'
+lifecycle_stage: active
+run_id: 33f38eac417d40fdbf46fcd1558a70bf
+run_name: nosy-lark-867
+run_uuid: 33f38eac417d40fdbf46fcd1558a70bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744129408822
+status: 3
+tags: []
+user_id: pragy

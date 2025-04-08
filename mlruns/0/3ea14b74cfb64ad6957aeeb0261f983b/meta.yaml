@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ea14b74cfb64ad6957aeeb0261f983b/artifacts
+end_time: 1744123258201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ea14b74cfb64ad6957aeeb0261f983b
+run_name: exultant-crab-738
+run_uuid: 3ea14b74cfb64ad6957aeeb0261f983b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744123258065
+status: 3
+tags: []
+user_id: pragy

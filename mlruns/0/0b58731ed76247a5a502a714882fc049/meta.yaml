@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0b58731ed76247a5a502a714882fc049/artifacts
+end_time: 1744125798575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b58731ed76247a5a502a714882fc049
+run_name: serious-skunk-283
+run_uuid: 0b58731ed76247a5a502a714882fc049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744125785614
+status: 3
+tags: []
+user_id: pragy

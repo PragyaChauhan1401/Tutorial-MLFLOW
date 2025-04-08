@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOPS/Tutorial-MLFLOW/mlruns/776065309650117193/1cceb37943034d8f8bcdea8e530083e2/artifacts
+deleted_time: 1744124817059
+end_time: 1744124025841
+entry_point_name: ''
+experiment_id: '776065309650117193'
+lifecycle_stage: deleted
+run_id: 1cceb37943034d8f8bcdea8e530083e2
+run_name: resilient-snipe-349
+run_uuid: 1cceb37943034d8f8bcdea8e530083e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744124025491
+status: 4
+tags: []
+user_id: pragy

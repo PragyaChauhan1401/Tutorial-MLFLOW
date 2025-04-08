@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/52c2c35ab20a42b4922e2366abed6266/artifacts
+end_time: 1744128730871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52c2c35ab20a42b4922e2366abed6266
+run_name: selective-perch-312
+run_uuid: 52c2c35ab20a42b4922e2366abed6266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744128720446
+status: 3
+tags: []
+user_id: pragy

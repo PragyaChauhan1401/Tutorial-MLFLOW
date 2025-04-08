@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0aa12c7739584e5e973b34af5d3cb7cb/artifacts
+end_time: 1744123053950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0aa12c7739584e5e973b34af5d3cb7cb
+run_name: awesome-ape-805
+run_uuid: 0aa12c7739584e5e973b34af5d3cb7cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744123053771
+status: 3
+tags: []
+user_id: pragy

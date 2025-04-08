@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOPS/Tutorial-MLFLOW/mlruns/288457973434961832/cefef087b5c84d919df969bd6c7b0dce/artifacts
+end_time: 1744129409128
+entry_point_name: ''
+experiment_id: '288457973434961832'
+lifecycle_stage: active
+run_id: cefef087b5c84d919df969bd6c7b0dce
+run_name: delightful-steed-28
+run_uuid: cefef087b5c84d919df969bd6c7b0dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744129409049
+status: 3
+tags: []
+user_id: pragy

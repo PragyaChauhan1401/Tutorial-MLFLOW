@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0200b48d3ff04f57a28de638d486320a/artifacts
+end_time: 1744125307457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0200b48d3ff04f57a28de638d486320a
+run_name: sassy-steed-401
+run_uuid: 0200b48d3ff04f57a28de638d486320a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744125306094
+status: 3
+tags: []
+user_id: pragy
